@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 # Fit-Muscles
-FIT MUSCLES is a web-app service providing system. It is an initiative to help lfters to learn to perform various exercises with proper form. In this web-app you can learn various exercises according to a specific body part and you can watch video tutorials of the exercise. so its easy to learn new exercises properly through help of this Web App.
+FIT MUSCLES is a web-app service providing system. It is an initiative to help beginner lifters to learn to perform various exercises with proper form. In this web-app you can learn various exercises according to a specific body part and you can watch video tutorials of the exercise. so its easy to learn new exercises properly through help of this Web App.
 =======
 # Getting Started with Create React App
 
